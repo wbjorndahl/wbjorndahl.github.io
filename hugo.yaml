@@ -20,7 +20,7 @@ params:
   profileMode:
     enabled: true
     title: "William Bjorndahl"
-    subtitle: "Ph.D. Candidate • Southern Methodist University \ Machine Learning for Wireless Communications • Mobile Computing • Radiance Fields"
+    subtitle: "Ph.D. Candidate • Southern Methodist University \ Machine Learning for Wireless Communications • Radiance Fields"
     imageUrl: "/images/avatar.jpg"
     imageWidth: 140
     imageHeight: 140
