@@ -1,0 +1,63 @@
+baseURL: "https://williambjorndahl.com/"
+languageCode: "en-us"
+title: "William Bjorndahl"
+theme: ["PaperMod"]
+enableRobotsTXT: true
+
+# Hugo recommends this cache config for GitHub Pages builds
+caches:
+  images:
+    dir: :cacheDir/images
+# (From Hugo’s GitHub Pages hosting guide.) :contentReference[oaicite:1]{index=1}
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  profileMode:
+    enabled: true
+    title: "Your Name"
+    subtitle: "Title • Institution • Research areas"
+    imageUrl: "/images/avatar.jpg"
+    imageWidth: 140
+    imageHeight: 140
+    buttons:
+      - name: Research
+        url: "/research/"
+      - name: Publications
+        url: "/publications/"
+      - name: CV
+        url: "/cv.pdf"
+      - name: Notes
+        url: "/posts/"
+
+  socialIcons:
+    - name: email
+      url: "mailto:you@university.edu"
+    - name: github
+      url: "https://github.com/YOUR_GITHUB_USERNAME"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=XXXX"
+    - name: orcid
+      url: "https://orcid.org/0000-0000-0000-0000"
+
+menu:
+  main:
+    - name: Research
+      url: /research/
+      weight: 10
+    - name: Publications
+      url: /publications/
+      weight: 20
+    - name: CV
+      url: /cv.pdf
+      weight: 30
+    - name: Notes
+      url: /posts/
+      weight: 40
+    - name: Search
+      url: /search/
+      weight: 50
