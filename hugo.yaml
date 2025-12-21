@@ -19,8 +19,8 @@ outputs:
 params:
   profileMode:
     enabled: true
-    title: "Your Name"
-    subtitle: "Title • Institution • Research areas"
+    title: "William Bjorndahl"
+    subtitle: "Ph.D. Candidate • Southern Methodist University <br> Machine Learning for Wireless Communications • Mobile Computing • Radiance Fields"
     imageUrl: "/images/avatar.jpg"
     imageWidth: 140
     imageHeight: 140
