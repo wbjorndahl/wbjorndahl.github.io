@@ -43,7 +43,10 @@ params:
       url: "https://orcid.org/0009-0002-0420-3334"
 
   # Add items with date (YYYY-MM-DD) and text to show under "Recent News".
-  recentNews: []
+    recentNews:
+    - date: 2025-12-20     # use YYYY-MM-DD so Hugo can format it
+      text: "Our paper 'SPARK: Sparse Parametric Antenna Representation using Kernels' was accepted to IEEE INFOCOM 2026."
+      # url: "https://example.com/slides"   # optional
 
 menu:
   main:
