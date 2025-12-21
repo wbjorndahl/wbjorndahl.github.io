@@ -71,7 +71,7 @@
                 {{- else }}
                 <span class="news-date">{{ $dateString }}</span>
                 {{- end }}
-            {{- end }}
+            {{- end }}{{- if $text }}&nbsp;<span class="news-delimiter">—</span>&nbsp;{{- end }}
             <span class="news-text">
                 {{- if .url }}
                 <a href="{{ .url }}">{{ $text }}</a>
