@@ -27,12 +27,8 @@ params:
     imageWidth: 140
     imageHeight: 140
     buttons:
-      - name: Research
-        url: "/research/"
       - name: Publications
         url: "/publications/"
-      - name: CV
-        url: "/cv.pdf"
       - name: Notes
         url: "/posts/"
 
@@ -46,20 +42,14 @@ params:
     - name: orcid
       url: "https://orcid.org/0009-0002-0420-3334"
 
+  # Add items with date (YYYY-MM-DD) and text to show under "Recent News".
+  recentNews: []
+
 menu:
   main:
-    - name: Research
-      url: /research/
-      weight: 10
     - name: Publications
       url: /publications/
-      weight: 20
-    - name: CV
-      url: /cv.pdf
-      weight: 30
+      weight: 10
     - name: Notes
       url: /posts/
-      weight: 40
-    - name: Search
-      url: /search/
-      weight: 50
+      weight: 20
