@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>William Bjorndahl</title>
-    <link>williambjorndahl</link>
+    <link>williambjorndahl.com/</link>
     <description>Recent content on William Bjorndahl</description>
     <generator>Hugo -- 0.153.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Dec 2025 20:51:31 -0800</lastBuildDate>
-    <atom:link href="williambjorndahlindex.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="williambjorndahl.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>williambjorndahlpublications/</link>
+      <link>williambjorndahl.com/publications/</link>
       <pubDate>Sat, 20 Dec 2025 20:51:31 -0800</pubDate>
-      <guid>williambjorndahlpublications/</guid>
+      <guid>williambjorndahl.com/publications/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>williambjorndahlresearch/</link>
+      <link>williambjorndahl.com/research/</link>
       <pubDate>Sat, 20 Dec 2025 20:51:31 -0800</pubDate>
-      <guid>williambjorndahlresearch/</guid>
+      <guid>williambjorndahl.com/research/</guid>
       <description></description>
     </item>
   </channel>
