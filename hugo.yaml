@@ -23,7 +23,7 @@ params:
     subtitle: |
       Ph.D. Candidate • Southern Methodist University\
       Machine Learning for Wireless Communications • Radiance Fields
-    imageUrl: "/images/avatar.jpg"
+    imageUrl: "/images/avatar.jpeg"
     imageWidth: 140
     imageHeight: 140
     buttons:
