@@ -20,7 +20,9 @@ params:
   profileMode:
     enabled: true
     title: "William Bjorndahl"
-    subtitle: "Ph.D. Candidate • Southern Methodist University \ Machine Learning for Wireless Communications • Radiance Fields"
+    subtitle: |
+      Ph.D. Candidate • Southern Methodist University\
+      Machine Learning for Wireless Communications • Radiance Fields
     imageUrl: "/images/avatar.jpg"
     imageWidth: 140
     imageHeight: 140
@@ -38,11 +40,11 @@ params:
     - name: email
       url: "mailto:you@university.edu"
     - name: github
-      url: "https://github.com/YOUR_GITHUB_USERNAME"
+      url: "https://github.com/wbjorndahl"
     - name: googlescholar
-      url: "https://scholar.google.com/citations?user=XXXX"
+      url: "https://scholar.google.com/citations?user=bzGa4XAAAAAJ"
     - name: orcid
-      url: "https://orcid.org/0000-0000-0000-0000"
+      url: "https://orcid.org/0009-0002-0420-3334"
 
 menu:
   main:
