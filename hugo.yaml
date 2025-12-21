@@ -38,7 +38,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:you@university.edu"
+      url: "mailto:wbjorndahl@smu.edu"
     - name: github
       url: "https://github.com/wbjorndahl"
     - name: googlescholar
