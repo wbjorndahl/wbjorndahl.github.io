@@ -21,11 +21,11 @@ params:
     enabled: true
     title: "William Bjorndahl"
     subtitle: |
-      <div align="left">
-      Ph.D. Candidate at Southern Methodist University\ \
-      My main research interests explore efficient 3D spatial representations for radio frequencies.\ \
+      Ph.D. Candidate at Southern Methodist University\
+      \
+      My main research interests explore efficient 3D spatial representations for radio frequencies.\
+      \
       This had led much of my work to lie at the intersection of radiance fields and wireless systems.
-      </div>
     #imageUrl: "/images/avatar.jpeg"
     imageWidth: 220
     buttons:
