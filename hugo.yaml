@@ -21,7 +21,7 @@ params:
     enabled: true
     title: "William Bjorndahl"
     subtitle: |
-      Ph.D. Candidate at Southern Methodist University\
+      Ph.D. Candidate at Southern Methodist University\\
       My main research interests explore efficient 3D spatial representations for radio frequencies.\
       This had led much of my work to lie at the intersection of radiance fields and wireless systems.
     #imageUrl: "/images/avatar.jpeg"
