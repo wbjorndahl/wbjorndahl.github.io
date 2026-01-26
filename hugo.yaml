@@ -23,7 +23,7 @@ params:
     subtitle: |
       Ph.D. Candidate at Southern Methodist University\
       My main research interests explore efficient 3D spatial representations for radio frequencies.\
-      Naturally, this had led much of my work to lie at the intersection of radiance fields and wireless systems.
+      This had led much of my work to lie at the intersection of radiance fields and wireless systems.
     #imageUrl: "/images/avatar.jpeg"
     imageWidth: 220
     buttons:
@@ -39,13 +39,13 @@ params:
       url: "https://github.com/wbjorndahl"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=bzGa4XAAAAAJ"
-    - name: orcid
-      url: "https://orcid.org/0009-0002-0420-3334"
+    # - name: orcid
+    #   url: "https://orcid.org/0009-0002-0420-3334"
 
   # Add items with date (YYYY-MM-DD) and text to show under "Recent News".
   recentNews:
     - date: 2025-12-20     # use YYYY-MM-DD so Hugo can format it
-      text: "'SPARK: Sparse Parametric Antenna Representation using Kernels' was accepted to IEEE INFOCOM 2026."
+      text: "'SPARK: Sparse Parametric Antenna Representation using Kernels' was accepted to IEEE INFOCOM 2026. [[arxiv](https://arxiv.org/abs/2601.05440)]"
       url: "https://arxiv.org/abs/2601.05440"
 
 menu:
