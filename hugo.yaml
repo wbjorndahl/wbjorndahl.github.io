@@ -21,7 +21,7 @@ params:
     enabled: true
     title: "William Bjorndahl"
     subtitle: |
-      Ph.D. Candidate at Southern Methodist University\
+      Ph.D. Candidate at Southern Methodist University in the Autonomous Drone Teaming Lab, advised by [Dr. Joseph Camp](https://s2.smu.edu/~camp/).\
       \
       My research is in efficient spatial representations for perception-driven actions in wireless systems.
     imageUrl: "/images/avatar.jpg"
