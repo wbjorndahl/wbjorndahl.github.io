@@ -2,25 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>William Bjorndahl</title>
-    <link>williambjorndahl.com/</link>
+    <link>http://localhost:14000/</link>
     <description>Recent content on William Bjorndahl</description>
     <generator>Hugo -- 0.153.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Dec 2025 20:51:31 -0800</lastBuildDate>
-    <atom:link href="williambjorndahl.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:14000/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>williambjorndahl.com/publications/</link>
+      <link>http://localhost:14000/publications/</link>
       <pubDate>Sat, 20 Dec 2025 20:51:31 -0800</pubDate>
-      <guid>williambjorndahl.com/publications/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>williambjorndahl.com/research/</link>
-      <pubDate>Sat, 20 Dec 2025 20:51:31 -0800</pubDate>
-      <guid>williambjorndahl.com/research/</guid>
-      <description></description>
+      <guid>http://localhost:14000/publications/</guid>
+      <description>&lt;p&gt;Selected publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;W. Bjorndahl&lt;/strong&gt; and J. Camp. “BeamMix: 3D Gaussian Mixture-of-Experts for Element-Space Wireless Channel Modeling.” In &lt;em&gt;ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)&lt;/em&gt;, June 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;W. Bjorndahl&lt;/strong&gt;, M. O&amp;rsquo;Hair, B. Zoghi, and J. Camp. “SPARK: Sparse Parametric Antenna Representation using Kernels.” In &lt;em&gt;IEEE International Conference on Computer Communications (INFOCOM)&lt;/em&gt;, May 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;W. Bjorndahl&lt;/strong&gt;, M. Singh, F. Nouri, and J. Camp. “PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting.” In &lt;em&gt;IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)&lt;/em&gt;, May 2026.&lt;/li&gt;
+&lt;li&gt;C. Sayre, &lt;strong&gt;W. Bjorndahl&lt;/strong&gt;, E. C. Larson, J. Camp, R. Rodriguez-Davila, M. Quevedo-Lopez, and B. Gnade. “Low cost, mobile radiation anomaly detection with deep adversarial auto encoders on the edge.” &lt;em&gt;Engineering Applications of Artificial Intelligence&lt;/em&gt;, Vol. 164, Part B, 2026, Article 113278. &lt;a href=&#34;https://doi.org/10.1016/j.engappai.2025.113278&#34;&gt;https://doi.org/10.1016/j.engappai.2025.113278&lt;/a&gt;. (H-5 Index: 154, Impact Factor: 8.0)&lt;/li&gt;
+&lt;li&gt;M. Singh, &lt;strong&gt;W. Bjorndahl&lt;/strong&gt;, G. S. Aujla, and J. Camp. “T-BLAST: Token-Based Leveraging of Autonomous Spectrum Trading.” In &lt;em&gt;IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)&lt;/em&gt;, May 2025.&lt;/li&gt;
+&lt;li&gt;R. Ventura, &lt;strong&gt;W. Bjorndahl&lt;/strong&gt;, and G. Vejarano. “Targeted Broadcast in Vehicular Ad-Hoc Networks.” In &lt;em&gt;IEEE Latin-American Conference on Communications (LATINCOM)&lt;/em&gt;, November 2023.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

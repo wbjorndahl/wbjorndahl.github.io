@@ -2,21 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>williambjorndahl.com/publications/</loc>
+    <loc>http://localhost:14000/publications/</loc>
     <lastmod>2025-12-20T20:51:31-08:00</lastmod>
   </url><url>
-    <loc>williambjorndahl.com/research/</loc>
+    <loc>http://localhost:14000/</loc>
     <lastmod>2025-12-20T20:51:31-08:00</lastmod>
   </url><url>
-    <loc>williambjorndahl.com/</loc>
-    <lastmod>2025-12-20T20:51:31-08:00</lastmod>
+    <loc>http://localhost:14000/categories/</loc>
   </url><url>
-    <loc>williambjorndahl.com/categories/</loc>
+    <loc>http://localhost:14000/posts/</loc>
   </url><url>
-    <loc>williambjorndahl.com/posts/</loc>
+    <loc>http://localhost:14000/search/</loc>
   </url><url>
-    <loc>williambjorndahl.com/search/</loc>
-  </url><url>
-    <loc>williambjorndahl.com/tags/</loc>
+    <loc>http://localhost:14000/tags/</loc>
   </url>
 </urlset>
