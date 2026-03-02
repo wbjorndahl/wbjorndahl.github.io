@@ -24,8 +24,8 @@ params:
       Ph.D. Candidate at Southern Methodist University\
       \
       My research is in efficient spatial representations for perception-driven actions in wireless systems.
-    #imageUrl: "/images/avatar.jpeg"
-    imageWidth: 220
+    imageUrl: "/images/avatar.jpg"
+    imageWidth: 180
     buttons:
       - name: Publications
         url: "/publications/"
