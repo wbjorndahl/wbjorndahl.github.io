@@ -24,6 +24,8 @@ params:
       Ph.D. Candidate at Southern Methodist University in the Autonomous Drone Teaming Lab, advised by [Dr. Joseph Camp](https://s2.smu.edu/~camp/).\
       \
       My research is in efficient spatial representations for perception-driven actions in wireless systems.
+    description: |
+      During my Ph.D. I have developed 3D models driven by wireless signals, capturing how those signals behave throughout space. These signal-centric representations let mobile devices like phones or drones natively perceive their surroundings and act intelligently, without relying on explicit, prior environmental models. This supports context-aware decision making in unfamiliar or rapidly changing environments because the models adapt directly to RF measurements as these devices move through the world.
     imageUrl: "/images/avatar.jpg"
     imageWidth: 180
     buttons:

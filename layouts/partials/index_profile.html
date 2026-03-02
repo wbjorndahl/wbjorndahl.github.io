@@ -59,6 +59,9 @@
             {{- end }}
         </div>
         {{- end }}
+        {{- with .description }}
+        <p class="profile-description">{{ . | markdownify }}</p>
+        {{- end }}
     </div>
     {{- end}}
 </div>
