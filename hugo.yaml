@@ -47,10 +47,6 @@ params:
 
   # Add items with date (YYYY-MM-DD) and text to show under "News".
   recentNews:
-    - date: 2026-02-28
-      text: "'BeamMix: 3D Gaussian Mixture-of-Experts for Element-Space Wireless Channel Modeling' accepted to ACM MobiSys 2026."
-    - date: 2026-02-28
-      text: "'PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting' accepted to IEEE DySPAN 2026."
     - date: 2025-12-20
       text: "'SPARK: Sparse Parametric Antenna Representation using Kernels' accepted to IEEE INFOCOM 2026."
 
